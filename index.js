@@ -6,6 +6,7 @@ const bodyParser = require('body-parser');
 const keys = require('./config/keys');
 // const passportConfig = require('./services/passport');
 require('./models/User');
+require('./models/Survey');
 require('./services/passport');
 // const authRoutes = require('./routes/authRoutes');
 // CommonJS
