@@ -11,6 +11,7 @@ require('./services/passport');
 // const authRoutes = require('./routes/authRoutes');
 // CommonJS
 
+mongoose.Promise = global.Promise;
 mongoose.connect(keys.mongoURI);
 
 const app = express();
