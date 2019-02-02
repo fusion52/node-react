@@ -80,6 +80,8 @@ Deploy to Production on Heroku
 git push heroku master
 ```
 
+Please read [README-Production.md](README-Production.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 ## Built With
 
 * [NodeJS](https://nodejs.org/en/) - JavaScript runtime built on Chrome's V8 JavaScript engine.
