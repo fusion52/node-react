@@ -66,11 +66,18 @@ No tests
 
 Add additional notes about how to deploy this on a live system
 
+Deploy to Development environment
+
 ```
 node run start
 node run server
 node run client
 node run dev    (runs both client and server)
+```
+
+Deploy to Production on Heroku
+```
+git push heroku master
 ```
 
 ## Built With
