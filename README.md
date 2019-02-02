@@ -80,7 +80,7 @@ Deploy to Production on Heroku
 git push heroku master
 ```
 
-Please read [README-Production.md](README-Production.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [README-Production.md](README-Production.md) for details on deployment to Heroku.
 
 ## Built With
 
